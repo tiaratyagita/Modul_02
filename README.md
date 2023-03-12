@@ -12,3 +12,5 @@ Tipe data digunakan untuk mengklasifikasikan nilai atau objek dalam program dan 
   * Dictionary
   * Set
   * Complex
+
+  
